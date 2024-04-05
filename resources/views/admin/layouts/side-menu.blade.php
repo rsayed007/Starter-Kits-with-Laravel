@@ -28,6 +28,25 @@
 
             </ul>
 
+            <ul class="nav pcoded-inner-navbar ">
+                <li class="nav-item pcoded-menu-caption">
+                    <label>Settings</label>
+                </li>
+
+                <li class="nav-item pcoded-hasmenu">
+                    <a href="#" class="nav-link ">
+                        <span class="pcoded-micon"><i class="feather icon-users"></i></span>
+                        <span class="pcoded-mtext">Users</span>
+                    </a>
+                    <ul class="pcoded-submenu">
+                        <li><a href="#">List</a></li>
+                        <li><a href="#">Role</a></li>
+                        <li><a href="#" >Permission</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
         </div>
     </div>
 </nav>
